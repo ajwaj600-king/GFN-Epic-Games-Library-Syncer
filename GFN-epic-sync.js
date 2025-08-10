@@ -3,10 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      9.0
 // @description  The final, polished script that handles all store cases.
-// @author       You & AI
+// @author       Ajwaj600 & AI
 // @match        https://play.geforcenow.com/*
 // @grant        none
 // @run-at       document-idle
+// @license MIT
 // ==/UserScript==
 
 (function() {
